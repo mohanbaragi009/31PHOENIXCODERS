@@ -13,7 +13,6 @@ To leverage metadata (fund house, category, sector, AUM, holdings) to:
 Improve result precision
 Disambiguate similar-sounding funds  Generate a description for the GitHub README.md
 
-Certainly! Here’s a README.md description for your project, capturing its purpose, the data pipeline, and the semantic search capability:
 
 # Intelligent Indian Mutual Fund & Stock Search System
 
